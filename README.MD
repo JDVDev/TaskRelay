@@ -5,3 +5,5 @@
 pip3 install -r /path/to/requirements.txt
 ```
 Run *Bootstrapper.py* to start Task Relay 
+
+![alt tag](Taskrelay flowdiagram.png)
